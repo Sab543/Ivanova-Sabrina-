@@ -4,3 +4,4 @@
 # презентация скиллбокс https://docs.google.com/presentation/d/1FvojT-bExjLShP81jnBDe4lbO_lw97Ac/edit?usp=sharing&ouid=115306694905956160009&rtpof=true&sd=true
 # 8.Филология и летаратуроведение
 # сертификаты https://docs.google.com/document/d/1EHpRwezfq8dsG3amDdpthBpqhiIlB_Q3FcTj5qjqe5A/edit?usp=drivesdk
+#направление и роль https://docs.google.com/document/d/1-NmgbJnVeUNRGOK2b9GCjfZTuJ9Hfp8L5a9Gs1DvODM/edit?usp=drivesdk
