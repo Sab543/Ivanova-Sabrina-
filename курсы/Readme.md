@@ -5,4 +5,5 @@
 # 8.Филология и летаратуроведение
 # сертификаты https://docs.google.com/document/d/1EHpRwezfq8dsG3amDdpthBpqhiIlB_Q3FcTj5qjqe5A/edit?usp=drivesdk
 #направление и роль https://docs.google.com/document/d/1-NmgbJnVeUNRGOK2b9GCjfZTuJ9Hfp8L5a9Gs1DvODM/edit?usp=drivesdk
-интенсив который выбрала https://live.skillbox.ru/webinars/design/znakomimsya-s-professiei-dizainera-interera-i-sozdayom-dosku-nastroeniya260123/
+# интенсив который выбрала https://live.skillbox.ru/webinars/design/znakomimsya-s-professiei-dizainera-interera-i-sozdayom-dosku-nastroeniya260123/
+# конспект по интенсив https://docs.google.com/document/d/1afxYmKpvY7wBV9es2h2nzZ3soDDoMo7gGjNJPs0zzoA/edit?usp=drivesdk
