@@ -7,3 +7,5 @@
 #направление и роль https://docs.google.com/document/d/1-NmgbJnVeUNRGOK2b9GCjfZTuJ9Hfp8L5a9Gs1DvODM/edit?usp=drivesdk
 # интенсив который выбрала https://live.skillbox.ru/webinars/design/znakomimsya-s-professiei-dizainera-interera-i-sozdayom-dosku-nastroeniya260123/
 # конспект по интенсив https://docs.google.com/document/d/1afxYmKpvY7wBV9es2h2nzZ3soDDoMo7gGjNJPs0zzoA/edit?usp=drivesdk
+# презентация по интенсиву https://docs.google.com/presentation/d/1QS6vOpOQobjGpsZVVVGWEb0oyywyPXD3/edit?usp=sharing&ouid=115306694905956160009&rtpof=true&sd=true
+# презентация по питону https://docs.google.com/presentation/d/1z1v-KV6BfW1ZwETeihxZ0sXt8CWgbqLl/edit?usp=sharing&ouid=115306694905956160009&rtpof=true&sd=true
