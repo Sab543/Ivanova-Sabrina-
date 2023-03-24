@@ -10,3 +10,4 @@
 # презентация по интенсиву https://docs.google.com/presentation/d/1QS6vOpOQobjGpsZVVVGWEb0oyywyPXD3/edit?usp=sharing&ouid=115306694905956160009&rtpof=true&sd=true
 # презентация по питону https://docs.google.com/presentation/d/1z1v-KV6BfW1ZwETeihxZ0sXt8CWgbqLl/edit?usp=sharing&ouid=115306694905956160009&rtpof=true&sd=true
 #акселератор итог аттсест https://docs.google.com/document/d/1oN7Q3SwejN4ImE6r0trcHIPKPsKcq5d0wBT99Nf4byw/edit?usp=drivesdk
+# ![image](https://user-images.githubusercontent.com/113089570/227500828-be6e9817-1511-4df8-8563-f7643718cbab.png)
