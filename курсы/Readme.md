@@ -12,3 +12,4 @@
 #акселератор итог аттсест https://docs.google.com/document/d/1oN7Q3SwejN4ImE6r0trcHIPKPsKcq5d0wBT99Nf4byw/edit?usp=drivesdk
 # ![image](https://user-images.githubusercontent.com/113089570/227500828-be6e9817-1511-4df8-8563-f7643718cbab.png)
 # презентация питон и с# https://docs.google.com/presentation/d/1dEalQW6oM5hpA0PRVTxhgf8z29f5RiG02UrQ_VygZGo/edit?usp=sharing
+# презентиция интенсив https://docs.google.com/presentation/d/1VNWblB40nAZhCVG2nFR-GD1dW140BEL4HxlS5cj15dQ/edit?usp=sharing
