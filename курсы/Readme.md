@@ -13,3 +13,4 @@
 # ![image](https://user-images.githubusercontent.com/113089570/227500828-be6e9817-1511-4df8-8563-f7643718cbab.png)
 # презентация питон и с# https://docs.google.com/presentation/d/1dEalQW6oM5hpA0PRVTxhgf8z29f5RiG02UrQ_VygZGo/edit?usp=sharing
 # презентиция интенсив https://docs.google.com/presentation/d/1VNWblB40nAZhCVG2nFR-GD1dW140BEL4HxlS5cj15dQ/edit?usp=sharing
+# презентация на 19.05 интенсив https://docs.google.com/presentation/d/1-JBI3kDhjQ0VNiROsfk27UXeHpiqnibqTK0ZsA2NUco/edit?usp=sharing
