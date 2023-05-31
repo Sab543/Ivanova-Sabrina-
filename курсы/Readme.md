@@ -14,3 +14,4 @@
 # презентация питон и с# https://docs.google.com/presentation/d/1dEalQW6oM5hpA0PRVTxhgf8z29f5RiG02UrQ_VygZGo/edit?usp=sharing
 # презентиция интенсив https://docs.google.com/presentation/d/1VNWblB40nAZhCVG2nFR-GD1dW140BEL4HxlS5cj15dQ/edit?usp=sharing
 # презентация на 19.05 интенсив https://docs.google.com/presentation/d/1-JBI3kDhjQ0VNiROsfk27UXeHpiqnibqTK0ZsA2NUco/edit?usp=sharing + 2 задания по питону https://docs.google.com/document/d/1Rz2azR_yXdCwLGpAjHgiYM_WTWxv5S_06DMFVOX0zk0/edit?usp=sharing
+# презентация на 26.05 https://docs.google.com/presentation/d/1bg2Fz0rxCzI8b6Xg8ff69zd3-dlCG8QajfpAx1wp7YQ/edit?usp=sharing
