@@ -16,3 +16,4 @@
 # презентация на 19.05 интенсив https://docs.google.com/presentation/d/1-JBI3kDhjQ0VNiROsfk27UXeHpiqnibqTK0ZsA2NUco/edit?usp=sharing + 2 задания по питону https://docs.google.com/document/d/1Rz2azR_yXdCwLGpAjHgiYM_WTWxv5S_06DMFVOX0zk0/edit?usp=sharing
 # презентация на 26.05 https://docs.google.com/presentation/d/1bg2Fz0rxCzI8b6Xg8ff69zd3-dlCG8QajfpAx1wp7YQ/edit?usp=sharing
 # выбранный интенсив 3ий https://live.skillbox.ru/webinars/design/sketching-dlya-dizainera/
+# третья презентация https://docs.google.com/presentation/d/1KXNhe9Uncpea8s3X5Pt9jVF7r0SHELryr0bYWbTIc28/edit?usp=sharing
